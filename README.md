@@ -32,22 +32,7 @@ This project features a **Modern Chair Product Page** crafted to highlight a min
 
 ---
 
-## 📸 Demo Preview
 
-> ✨ [**Live Demo (GitHub Pages)**](#) — *Add your deployed GitHub Pages link here once live*
-
----
-
-## 📂 Folder Structure
-product-showcase/
-├── index.html
-├── style.css
-├── /assets
-└── chair images, icons, etc.
-
-
-
----
 
 ## 🛠️ How to Use
 
